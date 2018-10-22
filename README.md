@@ -15,6 +15,6 @@ The following bootstrap documents explain what The Grid is in more details, how 
 Visit us on:
 - Matrix
   - [#thegrid:kamax.io](https://matrix.to/#/#thegrid:kamax.io)
-  - [#kamax-thegrid:t2bot.io](https://matrix.ot/#/#kamax-thegrid:t2bot.io)
+  - [#kamax-thegrid:t2bot.io](https://matrix.to/#/#kamax-thegrid:t2bot.io)
 
 - Telegram: [@thegrid_matrix](https://t.me/thegrid_matrix)
