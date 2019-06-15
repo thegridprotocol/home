@@ -179,7 +179,10 @@ This kind of *Documentation* will mostly rely on [Usage feedback and usability](
 This kind of *Documentation* will mostly rely on [Facts backing](#facts-backing), [Sources linking](#sources-linking) and
 [Peer convincing](#peer-convincing). It can be produced by anyone and will be the primary backing work for other *Documentation*.
 
-**Example**: Matrix Server ACL addition analysis ([Github gist](https://gist.github.com/maxidor/b25769f1a89c8860b928babe795bbaaf)).
+**Example**:
+
+- Notes on privacy and data collection of Matrix.org ([Github Gist](https://gist.github.com/maxidorius/5736fd09c9194b7a6dc03b6b8d7220d0#notes-on-privacy-and-data-collection-of-matrixorg)).
+- Matrix Server ACL addition analysis ([Github gist](https://gist.github.com/maxidor/b25769f1a89c8860b928babe795bbaaf)).
 
 ### Guide/Recommendation/Template
 This kind of *Documentation* will mostly rely on [Usage feedback and usability](#usage-feedback-and-usability) and
