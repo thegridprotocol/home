@@ -38,7 +38,7 @@ The Governing Body will provide:
 - What is reasonably necessary for its boards to fulfill their responsibilities
 - What is reasonably expected from the community about such entity with a similar mission
 - End-users software, tools and services to showcase the protocol usage and goals
-- Development software, tools, documentation and services to ensure independent implementations are possible and straightforward
+- Development software, tools, documentation and services to ensure independent implementations are possible and straightforward, following [BCP 9](https://datatracker.ietf.org/doc/rfc6410/?include_text=1).
 - Means and services to discuss, exchange, and learn about the protocol
 - Guidelines and processes for protocol changes and community contributions, ensuring these are always welcoming,
   as easy as possible, and as rewarding as possible.

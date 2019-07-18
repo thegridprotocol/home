@@ -206,4 +206,4 @@ The Protocol Specification will be one of the final products and the most import
 
 As a special authoritative document, its main Proof of Work will be "delayed" and mostly contained in its ability of
 [Peer convincing](#peer-convincing) and being backed by two independent [Implementation](#implementation), adding to a
-total of three independent *Documentations* (one is the specification, two are the implementations).
+total of three independent *Documentations* (one is the specification, two are the implementations). This is in line with the requirements of [BCP 9](https://datatracker.ietf.org/doc/rfc6410/?include_text=1).

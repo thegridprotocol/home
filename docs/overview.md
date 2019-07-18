@@ -119,7 +119,7 @@ If you believe in the same values and ideas as we do, we’ll be happy to have y
 The high level steps are:
 - Creation of a non-profit to kick-start, grow, foster and maintain The Grid protocol.
 - Document all the concepts and network exchanges.
-- Ensuring that at least two independent implementations validate the documentation.
+- Ensuring that at least two independent implementations validate the documentation, following [BCP 9](https://datatracker.ietf.org/doc/rfc6410/?include_text=1).
 
 ### Governing body
 To ensure the protocol is free of control from a single entity and that the users are empowered to control it, a non-profit
@@ -173,5 +173,5 @@ in an invisible manner for the end user.
 
 ## Links and Sources
 [1]: https://matrix.org/blog/home/ - “Support Matrix Today” section  
-[2]: https://matrix.org/blog/2018/05/01/security-update-synapse-0-28-1/  
+[2]: https://matrix.org/blog/2018/05/01/security-update-synapse-0-28-1/
 [3]: https://matrix.org/blog/2018/06/14/security-update-synapse-0-31-2/
